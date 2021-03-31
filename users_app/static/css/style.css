@@ -1,0 +1,9 @@
+input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+}
+
+#form {
+    border-top: 3px solid black;
+    padding-top: 10px;
+}
